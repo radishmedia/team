@@ -30,7 +30,7 @@
 - Radish 웹 클라이언트 개발
 
 
-About Radish Team
+##About Radish Team
 
 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)**를 참고해주세요.
 
