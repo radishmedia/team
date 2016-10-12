@@ -27,7 +27,7 @@
 - 개발 가능성(feasibility)에 대한 이해  
 - Lean Process 선호 (빠른 이터레이션을 통한 조사/기획/개선 과정을 과정을 즐길 수 있는 분!)
 
-##About Radish Team
+## 팀소개
 
 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)**를 참고해주세요.
 
