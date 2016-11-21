@@ -77,7 +77,7 @@ Radish에서 PM(Product Manager)의 역할은 끊임없는 분석 및 설계, �
 
 현재 PM 직군에서 구인중인 포지션은 아래를 참고해주세요.
 
-- **[PM](https://github.com/radishmedia/team/blob/master/pm.md)**
+- ~~[PM](https://github.com/radishmedia/team/blob/master/pm.md)~~
 
 ## Radish에서 같이 일하고 싶은 인재상
 
