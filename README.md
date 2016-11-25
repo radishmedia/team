@@ -62,7 +62,7 @@ Radish에서 디자이너는 좋은 GUI를 만드는 것에 집중할 뿐만 아
 
 현재 디자인 직군에서 구인중인 포지션은 아래를 참고해주세요.
 
-- **[Product 디자이너](https://github.com/radishmedia/team/blob/master/productdesigner.md)**
+- **~~[Product 디자이너](https://github.com/radishmedia/team/blob/master/productdesigner.md)~~**
 
 
 ### PM 직군
