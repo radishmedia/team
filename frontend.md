@@ -27,7 +27,7 @@
 
 ## You Will
 
-- Radish iOS / Android 클라이언트 개발
+- Radish iOS / Android 클라이언트 개발 (React Native)
 - 작가 및 관리자를 위한 웹 CMS 개발
 - Radish 웹 클라이언트 개발
 
