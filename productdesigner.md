@@ -3,9 +3,9 @@
 아래의 구인 요건에 딱 맞는 분을 모시기보다 각자의 부족한 부분을 보완하며 팀과 함께 성장해나가실 분들을 모시고 있습니다. 내용에 들어맞지 않는다고 생각되시더라도 주저없이 많은 지원을 부탁드립니다.
 
 
-## About Radish Team
+## 팀소개
 
-Radish Media는 전세계에서 가장 큰 스토리 생태계를 만드는 비전을 갖고 글로벌 웹소설 플랫폼인 “Radish Fiction”을 만들고 있습니다. 자세한 소개는 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)** 페이지를 참고해주세요.
+Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 시장을 혁신시킨다는 비전을 갖고 글로벌 웹소설 플랫폼인 “Radish Fiction”을 만들고 있습니다. 팀에 대한 자세한 소개는 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)** 페이지를 참고해주세요.
 
 
 ## 주요업무
@@ -57,5 +57,5 @@ jobs@radishfiction.com 으로 아래 리스트에 해당하는 서류를 보내�
 ### 혜택 및 복지
 
 - 강남역 2분 거리의 쾌적한 사무실에서 근무합니다.
-- Wework에서 무제한 맥주와 커피를 제공합니다.
+- 팀이 입주해있는 Wework에서 무제한 맥주와 커피를 제공합니다.
 - 업무관련 교육 행사 및 참가비를 지원합니다.
