@@ -1,12 +1,12 @@
 
-# Mobile / Front-end 엔지니어 (Seoul)
+# Front-end / Mobile 엔지니어 (Seoul)
 
 아래의 구인 요건에 딱 맞는 분을 모시기보다 각자의 부족한 부분을 보완하며 팀과 함께 성장해나가실 분들을 모시고 있습니다. 내용에 들어맞지 않는다고 생각되시더라도 주저없이 많은 지원을 부탁드립니다.
 
 
 ## About Radish Team
 
-Radish Media는 전세계에서 가장 큰 스토리 생태계를 만드는 비전을 갖고 글로벌 웹소설 플랫폼인 “Radish Fiction”을 만들고 있습니다. 자세한 소개는 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)** 페이지를 참고해주세요.
+Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 시장을 혁신시킨다는 비전을 갖고 글로벌 웹소설 플랫폼인 “Radish Fiction”을 만들고 있습니다. 팀에 대한 자세한 소개는 **[팀소개](https://github.com/radishmedia/team/blob/master/README.md)** 페이지를 참고해주세요.
 
 
 ## About You
@@ -19,8 +19,7 @@ Radish Media는 전세계에서 가장 큰 스토리 생태계를 만드는 비�
 
 ## You Have
 
-- SPA 아키텍처에 대한 이해
-- Javascript와 HTML/CSS를 이용한 인터랙티브 웹애플리케이션 개발 경험
+- SPA 아키텍처에 대한 이해 및 Javascript와 HTML/CSS를 이용한 인터랙티브 웹애플리케이션 개발 경험
 - REST, 캐싱, 쿠키, CORS 등의 웹애플리케이션 기반 기술에 대한 이해
 - iOS/Android 중 한가지 이상의 플랫폼에서의 네이티브 앱 개발 경험
 - Node.js, NPM 환경에서의 개발 경험
@@ -29,9 +28,9 @@ Radish Media는 전세계에서 가장 큰 스토리 생태계를 만드는 비�
 
 ## You Will
 
-- Radish 서비스의 iOS / Android 클라이언트를 개발
+- Radish 서비스의 iOS / Android 클라이언트를 개발 - React Native를 이용하여 개발하고 있습니다.
 - 작가들을 위한 글쓰기 환경 구축 (웹 및 모바일)
-- Radish의 컨텐츠를 분석, 운영, 계발할 수 있는 CMS의 Front-end 개발
+- Radish의 컨텐츠를 분석, 운영, 계발할 수 있는 웹 CMS 개발
 
 
 
@@ -40,7 +39,6 @@ Radish Media는 전세계에서 가장 큰 스토리 생태계를 만드는 비�
 jobs@radishfiction.com 으로 아래 리스트에 해당하는 서류를 보내주세요. 
 
 - 이력서 (경력인 경우 경력 기술을 중심으로)
-- 자기소개서
 - 코드 공유 (개발자 - 가급적 Github을 이용해주세요.) 
 - 포트폴리오 (디자이너)
 
@@ -56,5 +54,5 @@ jobs@radishfiction.com 으로 아래 리스트에 해당하는 서류를 보내�
 ### 혜택 및 복지
 
 - 강남역 2분 거리의 쾌적한 사무실에서 근무합니다.
-- Wework에서 무제한 맥주와 커피를 제공합니다.
+- 팀이 입주해있는 Wework에서 무제한 맥주와 커피를 제공합니다.
 - 업무관련 교육 행사 및 참가비를 지원합니다.
