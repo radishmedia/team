@@ -4,6 +4,8 @@ Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 �
 
 서울에는 개발자, 디자이너, PM 등 프로덕트를 만들어나가는 사람들이 모여 이제 막 세상에 나온 Radish 서비스를 계속 발전시키기 위해 노력하고 있습니다.
 
+[Radish Media Blog](https://medium.com/radish-fiction)
+
 
 ## Press
 
