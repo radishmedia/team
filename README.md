@@ -56,6 +56,7 @@ Radish의 서비스들은 대부분 AWS 환경에서 제공되고 있으며 모�
 #### 현재 채용 중
 
 - [모바일 엔지니어](https://github.com/radishmedia/team/blob/master/mobileengineer.md)
+- [백엔드 엔지니어](https://github.com/radishmedia/team/blob/master/backend.md)
 
 
 ### 디자인 직군
