@@ -14,8 +14,7 @@ Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 �
 
 Radish 팀은 좋은 퀄리티의 컨텐츠, 서비스 제공이라는 공통의 목표를 중심으로 자율적, 주도적으로 구성원들이 개발에 참여하는 문화를 지향합니다. 디자인, 개발, 운영 등 각자의 영역에 책임과 권한을 갖고 협력해서 서비스와 각자의 성장에 도움을 줄 수 있는 문화를 가진 팀이 될 수 있도록 노력합니다.
 
-<img src="https://cdn.radishfiction.com/static/crew/team2.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team3.jpg" width="50%" />
-<img src="https://cdn.radishfiction.com/static/crew/team4.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team5.jpg" width="50%" />
+<img src="https://cdn.radishfiction.com/static/crew/team5.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team3.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team2.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team4.jpg" width="50%" />
 
 ### 개발 환경
 
