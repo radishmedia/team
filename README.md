@@ -8,17 +8,9 @@ Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 �
 *[Radish Media blog](https://medium.com/radish-fiction)*
 
 
-## Press
-
-- [NYTimes - New apps provide a world of literature one chapter at a time.](https://mobile.nytimes.com/2017/05/12/books/review/new-apps-provide-a-world-of-literature-one-chapter-at-a-time.html)
-- [TechCrunch - Backed by author Amy Tan, mobile fiction startup Radish raises $3M](https://techcrunch.com/2017/01/31/radish-seed-funding/)
-- [Hollywood Reporter - UTA, Softbank Invest in Storytelling Startup Radish](http://www.hollywoodreporter.com/news/uta-softbank-invest-storytelling-startup-radish-970414)
-- [Get To Know Radish, The Serialized Fiction App Bringing Novels To Smartphones](https://www.fastcocreate.com/3068517/get-to-know-radish-the-serialized-fiction-app-bringing-novels-to-smartphones)
-
-
 ## 팀의 문화
 
-Radish 팀은 좋은 퀄리티의 컨텐츠, 서비스 제공이라는 공통의 목표를 중심으로 자율적, 주도적으로 구성원들이 개발에 참여하는 문화를 지향합니다. 디자인, 개발, 운영 등 각자의 영역에 책임과 권한을 갖지만 역할에 구애없이 긴밀하게 협력해서 서비스의 퀄리티를 향상시키고, 서로의 성장에 도움을 줄 수 있는 문화를 가진 팀이 될 수 있도록 노력하고 있습니다.
+Radish 팀은 좋은 퀄리티의 컨텐츠, 서비스 제공이라는 공통의 목표를 중심으로 자율적, 주도적으로 구성원들이 개발에 참여하는 문화를 지향합니다. 디자인, 개발, 운영 등 각자의 영역에 책임과 권한을 갖고 협력해서 서비스와 각자의 성장에 도움을 줄 수 있는 문화를 가진 팀이 될 수 있도록 노력합니다.
 
 
 ### 개발 환경
@@ -33,21 +25,20 @@ Radish 팀은 좋은 퀄리티의 컨텐츠, 서비스 제공이라는 공통의
   - 온라인 커뮤니케이션은 슬랙, 비디오 챗을 주로 이용합니다.
 - 업무 환경
   - 자율 출퇴근제를 운영합니다.
-  - 한자리에 모여 손쉽게 대화를 주고받을 수 있는 환경을 선호하지만 집중할 수 있는 업무 환경, 거주 위치, 개인 성향에 따른 재택, 리모트 근무 또한 운영 하고 있습니다.
+  - 한자리에 모여 손쉽게 대화를 주고받을 수 있는 환경을 선호합니다. 하지만 거주 위치에 따른 부분적인 리모트 근무 또한 운영 하고 있습니다.
   - 주기적으로 해외 각지에 떨어져 있는 모든 팀원들과 비디오 챗을 통한 all-hands 미팅을 진행합니다.
   - 해외에 있는 팀원들과의 커뮤니케이션 및 주요 업무 공유에서 영어를 사용합니다. 모두가 유창하거나 쉽지는 않지만 꾸준히 노력해서 성장하고 있습니다.
 - Tools
-  - 디자인은 주로 Sketch, 결과물은 Zeplin을 통해 공유합니다.
-  - 비 개발 직군 팀원들과의 업무 공유 툴로 Basecamp를 이용합니다.
-  - 텍스트 에디터는 Atom을 주로 사용하지만, 취향에 따른 선택을 존중합니다. 
-  - 피봇 가능한 25인치 모니터 및 맥북 프로를 지원합니다. (디자이너의 경우 아이맥)
+  - Slack, FB workplace, JIRA, Confluence를 협업 툴로 사용합니다.
+  - 디자인은 주로 Sketch, 결과물은 Zeplin을 통해 공유합니다.
+  - 모든 구성원이 Mac OS 환경에서 작업합니다. (피봇 가능한 25인치 모니터 및 맥북 프로를 지원합니다. 디자이너의 경우 아이맥)
 
 
 ### 개발자 직군
 
-Radish의 서비스들은 대부분 AWS 환경에서 제공되고 있으며 모바일 앱들은 현재 React Native를 이용하여 만들어지고 있습니다. 주요 웹 프레임웍으로는 Express, React, Redux를 차용하고 있으며 GraphQL. 팀의 개발자로 합류하시면 주로 하시게 될 업무의 영역은 다음과 같습니다.
+Radish의 서비스들은 대부분 AWS 환경에서 제공되고 있으며 모바일 앱들은 현재 React Native를 이용하여 만들어지고 있습니다. 주요 웹 기술로는 Express, React, Redux, GraphQL 사용하고 있습니다. 팀의 개발자로 합류하시면 주로 하시게 될 업무의 영역은 다음과 같습니다.
 
-- Radish 서비스 로직 및 API 제공
+- Radish 서비스 로직 구현 및 API 제공
 - iOS, 안드로이드 앱 개발
 - 작가들에게 훌륭한 글쓰기 경험을 제공하는 CMS 개발
 - 컨텐츠 및 서비스 성능 분석, 운영을 위한 CMS 개발
@@ -56,11 +47,11 @@ Radish의 서비스들은 대부분 AWS 환경에서 제공되고 있으며 모�
 
 #### 현재 채용 중
 
-- [모바일 엔지니어](https://github.com/radishmedia/team/blob/master/mobileengineer.md)
+- [모바일 클라이언트 엔지니어](https://github.com/radishmedia/team/blob/master/mobileengineer.md)
 - [백엔드 엔지니어](https://github.com/radishmedia/team/blob/master/backend.md)
 
 
-### 프로덕트 디자인 직군
+### 프로덕트 디자이너 직군
 
 Radish에서 디자이너는 좋은 GUI를 만드는 것에 집중할 뿐만 아니라 서비스 전반에 걸친 사용자의 경험 향상을 위해 분석에서부터, 설계 및 구현에 적극적으로 참여합니다.
 
@@ -97,3 +88,12 @@ Radish에서 PM(Product Manager)의 역할은 끊임없는 분석 및 설계, �
 - 탄력 근무시간 운영
 - 업무 관련 도서 및 교육 지원
 - 커피, 맥주를 포함한 스낵 지원
+
+
+## Press
+
+- [NYTimes - New apps provide a world of literature one chapter at a time.](https://mobile.nytimes.com/2017/05/12/books/review/new-apps-provide-a-world-of-literature-one-chapter-at-a-time.html)
+- [TechCrunch - Backed by author Amy Tan, mobile fiction startup Radish raises $3M](https://techcrunch.com/2017/01/31/radish-seed-funding/)
+- [Hollywood Reporter - UTA, Softbank Invest in Storytelling Startup Radish](http://www.hollywoodreporter.com/news/uta-softbank-invest-storytelling-startup-radish-970414)
+- [Get To Know Radish, The Serialized Fiction App Bringing Novels To Smartphones](https://www.fastcocreate.com/3068517/get-to-know-radish-the-serialized-fiction-app-bringing-novels-to-smartphones)
+
