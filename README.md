@@ -1,6 +1,8 @@
 
 # Radish를 소개합니다
 
+<img src="https://cdn.radishfiction.com/static/crew/radish1.png" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/radish2.png" width="50%" />
+
 Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 시장을 혁신시킨다는 비전을 가지고 글로벌 웹소설 플랫폼인 “Radish Fiction”을 만들고 있습니다. 서비스의 시작부터 영미권을 대상으로 계획하여 게임, 인터넷 서비스 분야에서 다양한 경험을 갖춘 프로덕트 팀원들과 영미권 출판계에서 활약해온 컨텐츠 팀원들이 서울과 뉴욕을 중심으로 일하고 있습니다. 또한 2016년 2월에 런칭하여 같은 해 하반기 이미 1억 이상의 연매출 작가들을 배출하였고 2017년 하반기 현재 전세계 1000여명의 작가들이 Radish에서 글을 쓰고 있습니다. 이 강력한 성장 잠재력을 통해 Facebook, AirBnB, Instagram, Uber 등에  투자한  Greylock Partners와 Lowercase Capital, Softbank Venture Capital 등의 최고의 투자사들이 Radish의 비전에 공감하여 2017년 상반기까지 $4M 이상의 시드 투자에 참여했습니다.
 
 서울에는 개발자, 디자이너, PM 등 프로덕트를 만들어나가는 사람들이 모여 이제 막 세상에 나온 Radish 서비스를 계속 발전시키기 위해 노력하고 있습니다.
@@ -12,6 +14,8 @@ Radish Media는 엔터테인먼트 산업의 가장 기초가 되는 스토리 �
 
 Radish 팀은 좋은 퀄리티의 컨텐츠, 서비스 제공이라는 공통의 목표를 중심으로 자율적, 주도적으로 구성원들이 개발에 참여하는 문화를 지향합니다. 디자인, 개발, 운영 등 각자의 영역에 책임과 권한을 갖고 협력해서 서비스와 각자의 성장에 도움을 줄 수 있는 문화를 가진 팀이 될 수 있도록 노력합니다.
 
+<img src="https://cdn.radishfiction.com/static/crew/team2.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team3.jpg" width="50%" />
+<img src="https://cdn.radishfiction.com/static/crew/team4.jpg" width="50%" /><img src="https://cdn.radishfiction.com/static/crew/team5.jpg" width="50%" />
 
 ### 개발 환경
 
@@ -88,3 +92,4 @@ Radish에서 PM(Product Manager)의 역할은 끊임없는 분석 및 설계, �
 - [Hollywood Reporter - UTA, Softbank Invest in Storytelling Startup Radish](http://www.hollywoodreporter.com/news/uta-softbank-invest-storytelling-startup-radish-970414)
 - [Get To Know Radish, The Serialized Fiction App Bringing Novels To Smartphones](https://www.fastcocreate.com/3068517/get-to-know-radish-the-serialized-fiction-app-bringing-novels-to-smartphones)
 
+<img src="https://cdn.radishfiction.com/static/crew/team1.jpg" width="100%" />
