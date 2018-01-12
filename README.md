@@ -81,15 +81,6 @@ Radish에서 PM(Product Manager)의 역할은 끊임없는 분석 및 설계, �
 - 웹소설을 비롯한 서브컬처에 대한 관심 및 이해가 뛰어난 분
 
 
-## 근무조건
-
-- 근무지 : 서울특별시 서초구 강남대로 373 홍우빌딩 WeWork 16층 (신분당선 강남역)
-- 연봉 및 스톡옵션, 4대 보험
-- 탄력 근무시간 운영
-- 업무 관련 도서 및 교육 지원
-- 커피, 맥주를 포함한 스낵 지원
-
-
 ## Press
 
 - [NYTimes - New apps provide a world of literature one chapter at a time.](https://mobile.nytimes.com/2017/05/12/books/review/new-apps-provide-a-world-of-literature-one-chapter-at-a-time.html)
